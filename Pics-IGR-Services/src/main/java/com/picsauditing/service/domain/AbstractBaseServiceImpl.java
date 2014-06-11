@@ -17,4 +17,5 @@ public class AbstractBaseServiceImpl {
     /**
      * Any common DAO classes and utilities can be wired here ....
      */
+    public void fetchContactors(){}
 }
